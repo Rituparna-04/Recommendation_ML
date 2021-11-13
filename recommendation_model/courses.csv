@@ -1,0 +1,21 @@
+CourseInfoId,CourseId,CourseName,SubjectId,SubjectName,SkillId,SkillName,ProviderId,ProviderName,CoursePatternId,CreatedBy,UpdatedBy,CreatedOn,UpdatedOn
+21,145,English Advanced,2,English,12,Spoken English,1,admin,33,49,49,2021-10-23 10:25:43.692978,2021-10-23 10:25:43.692982
+22,144,English Basics,2,English,12,Spoken English,1,admin,33,49,49,2021-10-23 10:25:51.13343,2021-10-23 10:25:51.133433
+23,146,Learn To Speak English,2,English,12,Spoken English,1,admin,33,49,49,2021-10-23 10:26:29.730467,2021-10-23 10:26:29.730471
+24,147,Spoken English,2,English,12,Spoken English,1,admin,33,49,49,2021-10-23 10:26:36.032652,2021-10-23 10:26:36.032655
+31,31,introduction to php,9,php,4,testing,26,test,34,1,1,2021-10-25 08:13:46.579689,2021-10-25 08:13:46.579692
+32,170,Bugzilla,5,Report BUGS,3,BUG REPORTING,164,Swetha Pai,34,1,1,2021-10-25 08:16:38.896712,2021-10-25 08:16:38.896718
+33,40,Cyber Forensics,1,Physics,1,Drawing,34,testerkpc,33,1,1,2021-10-25 08:32:48.026764,2021-10-25 08:32:48.026767
+34,169,Cryptography,46,Cryptography,4,testing,164,Swetha Pai,33,1,1,2021-10-25 09:05:12.062785,2021-10-25 09:05:12.062787
+35,32,introduction to java,3,java,2,Debugging,26,test,34,1,1,2021-10-25 10:32:03.632396,2021-10-25 10:32:03.632438
+36,26,Python,4,JSON,3,BUG REPORTING,22,anjali,32,1,1,2021-10-25 11:35:52.726035,2021-10-25 11:35:52.726041
+37,99,Drawing,4,JSON,1,Drawing,89,cqtestertwenty,34,1,1,2021-10-25 11:39:55.354247,2021-10-25 11:39:55.354252
+38,41,Engineering Mechanics,1,Physics,1,Drawing,36,testerk,33,161,161,2021-10-26 04:54:42.358658,2021-10-26 04:54:42.3587
+42,38,software testing,7,Regression testing,4,testing,33,cqnewtest,33,1,1,2021-10-27 11:42:07.429799,2021-10-27 11:42:07.429843
+45,44,Automation,7,Regression testing,5,Automationtesting,40,spai,32,49,49,2021-10-28 05:47:28.58163,2021-10-28 05:47:28.581672
+46,13,JIRA,4,JSON,4,testing,13,swetha,33,49,49,2021-10-28 05:55:42.731379,2021-10-28 05:55:42.731381
+47,65,Engineering Physics,1,Physics,1,Drawing,63,testerjk,33,49,49,2021-10-28 06:01:31.484537,2021-10-28 06:01:31.484539
+48,75,enginnering physics,1,Physics,1,Drawing,70,testingmj,33,49,49,2021-10-28 06:06:02.49564,2021-10-28 06:06:02.495642
+49,191,Course 2,40,Logistics,4,testing,172,Swetha Pai,32,1,1,2021-10-29 10:25:13.525295,2021-10-29 10:32:36.031487
+50,179,testcourse5,6,reactjs,9,reading,173,xyznew,32,1,1,2021-10-30 06:41:31.681545,2021-10-30 07:08:26.236995
+52,245,Btech ECE,1,Physics,5,Automationtesting,222,testuploadlimit,33,1,1,2021-10-30 07:20:50.487172,2021-10-30 07:29:01.214234
