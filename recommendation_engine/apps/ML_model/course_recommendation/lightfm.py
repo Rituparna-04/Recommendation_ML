@@ -32,7 +32,9 @@ class RecommendationSystem:
         score_list = scores[0:nrec_items]
         return score_list
     
-    def predict_recommendations(self, user_id):
+    def predict_recommendations(self, users):
+        #u = kwargs
+        user_id = users["user_id"]
         try:
             #courses, interactions = self.prep_data()
             scores = self.show_recommendations(user_id)

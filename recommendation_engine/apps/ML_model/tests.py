@@ -6,9 +6,9 @@ from apps.ML_model.course_recommendation.lightfm import RecommendationSystem
 
 class MLTests(TestCase):
     def test_rf_algorithm(self):
-        user_id = 44
+        id = {"user_id": 44}
         my_alg = RecommendationSystem()
-        response = my_alg.predict_recommendations(user_id)
+        response = my_alg.predict_recommendations(id["user_id"])
         self.assertEqual('OK', response['status'])
         
     def test_registry(self):

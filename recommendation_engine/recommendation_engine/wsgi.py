@@ -21,13 +21,13 @@ application = get_wsgi_application()
 try:
     registry = MLRegistry() # create ML registry
     # Random Forest classifier
-    rs = RecommendationSystem
+    rs = RecommendationSystem()
     # add to ML registry
     registry.add_algorithm(endpoint_name="course_recommendation",
                             algorithm_object=rs,
                             algorithm_name="lightfm",
                             algorithm_status="production",
-                            algorithm_version="0.0.1",
+                            algorithm_version="0.0.5",
                             owner="Rituparna Maiti",
                             algorithm_description="Course recommendation for learning application",
                             algorithm_code=inspect.getsource(RecommendationSystem))
